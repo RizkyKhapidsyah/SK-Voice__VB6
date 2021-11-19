@@ -1,0 +1,5 @@
+frmChat = 78, 78, 858, 504, , 52, 52, 832, 478, CI
+CHAT_Defs = 78, 78, 858, 504, 
+TCP_Defs = 0, 0, 0, 0, C
+TCP_Functions = 130, 130, 910, 556, 
+CHAT_Functions = 0, 0, 0, 0, C

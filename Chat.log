@@ -1,0 +1,4 @@
+Line 145: Class MSWinsockLib.Winsock of control TCPSocket was not a loaded control class.
+Line 149: The property name _ExtentX in TCPSocket is invalid.
+Line 150: The property name _ExtentY in TCPSocket is invalid.
+Line 151: The property name _Version in TCPSocket is invalid.
